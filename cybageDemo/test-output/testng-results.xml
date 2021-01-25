@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Default suite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test Default test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.beforeTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.beforeTest]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.test]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.test]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in cybageTestListenersDemo.ListenerDemo]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.afterClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.afterClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.afterTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.afterTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing test Default test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : ListenerDemo.afterSuite]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : ListenerDemo.afterSuite]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="135" started-at="2016-06-20T18:23:35Z" finished-at="2016-06-20T18:23:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="135" started-at="2016-06-20T18:23:35Z" finished-at="2016-06-20T18:23:35Z">
+      <class name="cybageTestListenersDemo.ListenerDemo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="beforeSuite" is-config="true" duration-ms="53" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.beforeSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="beforeTest" is-config="true" duration-ms="1" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.beforeTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="beforeClass" is-config="true" duration-ms="1" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="test" duration-ms="48" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.test]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in cybageTestListenersDemo.ListenerDemo]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : ListenerDemo.afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="afterClass" is-config="true" duration-ms="3" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.afterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="afterTest" is-config="true" duration-ms="5" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.afterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:cybageTestListenersDemo.ListenerDemo@1daac11]" name="afterSuite" is-config="true" duration-ms="1" started-at="2016-06-20T23:53:35Z" finished-at="2016-06-20T23:53:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : ListenerDemo.afterSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- cybageTestListenersDemo.ListenerDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

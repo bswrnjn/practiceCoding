@@ -1,0 +1,93 @@
+name: 'Domestic Hotel Full Regression Test'
+parallel: false
+
+#--------------------------------------------------------------------------------------------
+# LISTENERS
+#--------------------------------------------------------------------------------------------
+
+listeners:
+  - com.saucelabs.testng.SauceOnDemandTestListener
+  - jp.co.rakuten.travel.framework.listeners.TestListeners
+  - org.testng.reporters.XMLReporter
+
+#--------------------------------------------------------------------------------------------
+# SUITE PARAMETERS
+#--------------------------------------------------------------------------------------------
+
+parameters:
+
+#--------------------------------------------------------------------------------------------
+# FRAMEWORK PARAMETERS
+#--------------------------------------------------------------------------------------------
+
+#--------------------------------------------------------------------------------------------
+# API PARAMETERS
+#--------------------------------------------------------------------------------------------
+
+  api_pass_criteria: type_3 # see enum PassCriteria
+  api_browser: firefox
+  api_element_timeout: 1
+
+#--------------------------------------------------------------------------------------------
+# TEST PARAMETERS
+#--------------------------------------------------------------------------------------------
+
+  hotel_result_view: hotel # hotel, plan, map
+  car_result_view: shop # hotel, plan, map
+
+  payment_type: online_credit_card
+
+  prefecture: tokyo
+  city_groups: nishi
+  city_tokyo_groups: '' # tokyo_d
+
+  hotel_name: '[stg][ForAutomationQA]Domestic_hotel01'
+  hotel_id: 94975
+
+  check_in_day: 16
+  stay_days: 2
+  card_brand: visa       # jcb, visa, master_card, american_express, diners, rakuten
+
+  adult: 2
+  room_count: 1
+
+#be careful about these options
+  meal_options: ''
+  room_class: ''
+  room_options: ''
+
+  check_in_time: 18:00
+
+#--------------------------------------------------------------------------------------------
+# TESTS
+#--------------------------------------------------------------------------------------------
+
+tests:
+
+#--------------------------------------------------------------------------------------------
+  - name: DOM00_01
+    classes:
+      - name: jp.co.rakuten.travel.service.tests.domestichotel.Test4987
+    parameters:
+      desc: Basic Reservation, Top Search, View by Hotel, Pay by cash
+
+      keyword_search: domestic_accommodation
+      keyword: domestic_hotel
+      hotel_name: '[stg][ForAutomationQA]Domestic_hotel02'
+#      top_page_selection: top_domestic_hotel
+#      search_page: top_page
+#      check_in_day: 12
+#      stay_days: 1
+#      adult: 10
+#      room_count: 1
+#      # min_price: 5000
+#      # max_price: 200000
+#
+#      room_name: 'Person_sale_room01' 
+#      plan_name: 'Normal_plan01'
+#      room_note: 'note'
+#      hotel_result_view: hotel
+#      payment_type: onsite_cash
+#      points_to_spend: 100
+#      payer: self
+#      basic_hotel_price: 5000

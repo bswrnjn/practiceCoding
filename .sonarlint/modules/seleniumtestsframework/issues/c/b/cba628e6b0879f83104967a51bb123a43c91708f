@@ -1,0 +1,15 @@
+
+Bsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHªH
+?squid:S1166m"%Either log or rethrow this exception.(Å¡ßH¬H
+?squid:S1166o"%Either log or rethrow this exception.(ıàÑÎH­H
+gsquid:S00112Ä"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿH³H
+Bsquid:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH§H
+Bsquid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¨H
+?squid:S1166k"%Either log or rethrow this exception.(¯áèH²H
+?squid:S1166q"%Either log or rethrow this exception.(ğıˆÒH¯H
+—squid:S1319\"}The type of the "webDriverListeners" object should be an interface such as "List" rather than the implementation "ArrayList".(º­Ó¬H±H
+Bsquid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH®H
+squid:S1319X"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸×÷èşÿÿÿÿH´H
+`squid:S1132g"FMove the "" string literal on the left side of this string comparison.(ÉŠ÷´H©H
+jsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(É¢âÿûÿÿÿÿH«H
+gsquid:S00112£"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿH°H

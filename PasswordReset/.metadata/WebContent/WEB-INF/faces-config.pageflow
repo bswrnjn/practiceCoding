@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14150446837450" configfile="/PasswordReset/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="PasswordReset" x="216" y="180" id="pf14150452039941" outlinks="pf14150452039942" path="/PasswordReset.jsp"/>
+  <nodes xsi:type="pageflow:PFPage" name="Success" x="520" y="194" id="pf14150452039953" inlinks="pf14150452039942" path="/Success.jsp"/>
+  <links id="pf14150452039942" target="pf14150452039953" source="pf14150452039941" redirect="true"/>
+</pageflow:Pageflow>

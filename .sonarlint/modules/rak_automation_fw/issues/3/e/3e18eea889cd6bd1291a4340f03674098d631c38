@@ -1,0 +1,11 @@
+
+osquid:S00116+"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ï‘ëøÿÿÿÿH‚ø
+tsquid:S00116."YRename this field "m_capabilities" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸèõH€ø
+Rsquid:S1135A"2Complete the task associated to this TODO comment.(«©¥‹ıÿÿÿÿHÿ÷
+_squid:S1134i"DTake the required action to fix the issue indicated by this comment.(úõ½ƒHø
+Asquid:S1166í"%Either log or rethrow this exception.(ÍÌŒ Hş÷
+usquid:S001160"TRename this field "m_pacFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÅîÛûÿÿÿÿH„ø
+osquid:S001162"SRename this field "m_driver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú× ïH†ø
+@squid:S1166D"%Either log or rethrow this exception.(ÔŠÂ–H‡ø
+œsquid:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨Ş¡ĞHƒø
+msquid:S00116-"RRename this field "m_proxy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùüpH…ø

@@ -1,0 +1,9 @@
+
+rsquid:S00116&"QRename this field "m_http" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å—ŞúÿÿÿÿHÀú
+Osquid:S2864O"4Iterate over the "entrySet" instead of the "keySet".(å¢™ÚH¿ú
+Osquid:S28640"4Iterate over the "entrySet" instead of the "keySet".(å¢™ÚH¼ú
+€squid:S1488{"`Immediately return this expression instead of assigning it to the temporary variable "response".(éåòªüÿÿÿÿH½ú
+usquid:S00116$"TRename this field "m_headers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ…øÿÿÿÿH»ú
+Osquid:S2864v"4Iterate over the "entrySet" instead of the "keySet".(å¢™ÚHÂú
+osquid:S00116""NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¤€‘şÿÿÿÿHÁú
+Osquid:S2864]"4Iterate over the "entrySet" instead of the "keySet".(å¢™ÚH¾ú

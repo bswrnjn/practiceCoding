@@ -1,0 +1,40 @@
+
+fsquid:S2142à"FEither re-interrupt this method or rethrow the "InterruptedException".(Ñ‘ÅüÿÿÿÿHõG
+esquid:S1192¼"JDefine a constant instead of duplicating this literal "wait for " 7 times.(Ññ®HòG
+{squid:S1488Ò"`Immediately return this expression instead of assigning it to the temporary variable "seenText".(ŠïÒ…HıG
+gsquid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(Ê“ÅıÿÿÿÿHH
+tsquid:S1192V"UDefine a constant instead of duplicating this literal ", attributeValue = {" 3 times.(ĞÇùÿÿÿÿH…H
+?squid:S11666"%Either log or rethrow this exception.(Ã÷‘HöG
+gsquid:S00112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ê“ÅıÿÿÿÿH÷G
+{squid:S1488Å"`Immediately return this expression instead of assigning it to the temporary variable "seenText".(ŠïÒ…HúG
+nsquid:S1192¹"SDefine a constant instead of duplicating this literal "Text can't be null" 4 times.(èë•HëG
+Qsquid:S1068%"2Remove this unused "sessionTimeout" private field.(öï¦¼ùÿÿÿÿHŒH
+Jsquid:S00108Û")Either remove or fill this block of code.(“ššûúÿÿÿÿHH
+jsquid:S1192á"ODefine a constant instead of duplicating this literal "assert text \"" 7 times.(ÎÀÀ¿HşG
+{squid:S1488à"`Immediately return this expression instead of assigning it to the temporary variable "seenText".(ŠïÒ…HüG
+wsquid:S1192é"WDefine a constant instead of duplicating this literal " at cell(row, col) = {" 3 times.(ëŸ†ÖüÿÿÿÿHìG
+fsquid:S2142«"FEither re-interrupt this method or rethrow the "InterruptedException".(Ñ‘ÅüÿÿÿÿHîG
+[squid:S1193ì"@Replace the usage of the "instanceof" operator by a catch block.(„ïÇH„H
+fsquid:S2142„"FEither re-interrupt this method or rethrow the "InterruptedException".(Ñ‘ÅüÿÿÿÿHˆH
+x
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÖŸùÁúÿÿÿÿHùG
+Esquid:S1166ÿ"%Either log or rethrow this exception.(“ššûúÿÿÿÿH‹H
+qsquid:S1192º"VDefine a constant instead of duplicating this literal "Element can't be null" 5 times.(Ş®¼¯HûG
+ssquid:S1192â"SDefine a constant instead of duplicating this literal " at (row, col) = (" 3 times.(éèÁ€şÿÿÿÿHïG
+hsquid:S1192M"IDefine a constant instead of duplicating this literal "assert " 10 times.(¤”ŠøÿÿÿÿHH
+Esquid:S1166¦"%Either log or rethrow this exception.(“ššûúÿÿÿÿHôG
+ksquid:S1192`"LDefine a constant instead of duplicating this literal " attribute=" 4 times.(¤”ŠøÿÿÿÿHóG
+Jsquid:S00108ÿ")Either remove or fill this block of code.(“ššûúÿÿÿÿHøG
+csquid:S1192è"HDefine a constant instead of duplicating this literal "Text= {" 7 times.(×Ö‚åHñG
+qsquid:S1192»"QDefine a constant instead of duplicating this literal "wait for text \"" 4 times.(ÓñÄúÿÿÿÿHŠH
+ksquid:S1192è"PDefine a constant instead of duplicating this literal "} not found on " 3 times.(×Ö‚åH‡H
+vsquid:S1488¾"]Immediately return this expression instead of assigning it to the temporary variable "alert".(ùÁjH€H
+Esquid:S1166Û"%Either log or rethrow this exception.(“ššûúÿÿÿÿHğG
+Jsquid:S00108¦")Either remove or fill this block of code.(“ššûúÿÿÿÿHH
+fsquid:S1192™"LDefine a constant instead of duplicating this literal " not found." 6 times.(èÜŸ-HƒH
+~squid:S1192ç"^Define a constant instead of duplicating this literal "Timed out waiting for text \"" 3 times.(ª£ÂøÿÿÿÿHêG
+Ssquid:UselessParenthesesCheckÖ"!Remove those useless parentheses.(‘Â·ÆşÿÿÿÿH‚H
+?squid:S1166¨"%Either log or rethrow this exception.(Í´ˆ#H†H
+gsquid:S00112…"FDefine and throw a dedicated exception instead of using a generic one.(Ê“ÅıÿÿÿÿH‰H
+qsquid:CallToDeprecatedMethodÀ"@Remove this use of "textToBePresentInElement"; it is deprecated.(õ§Ù¥ıÿÿÿÿHíG
+psquid:S1192Ï"PDefine a constant instead of duplicating this literal " to be present." 3 times.(¶Õ“€úÿÿÿÿHÿG

@@ -1,0 +1,8 @@
+
+tsquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş„ÕHıú
+Ÿsquid:S11923"Define a constant instead of duplicating this literal "No documents found related to specified suiteNames in MongoDB." 3 times.(ì¨¡ÿÿÿÿÿHüú
+]squid:S1854P"=Remove this useless assignment to local variable "testCases".(öšàÖÿÿÿÿÿHÿú
+wsquid:S00116"VRename this field "m_parameter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÌºÏıÿÿÿÿHûú
+tsquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛêåHşú
+ysquid:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(öšàÖÿÿÿÿÿHúú
+tsquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â¯êpHùú

@@ -1,0 +1,52 @@
+
+zsquid:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿH’ù
+Asquid:S1166Ô"%Either log or rethrow this exception.(ÊÈ±ïH¥ù
+g
+squid:S134o"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(úª×NHûø
+ssquid:S00116R"RRename this field "m_files" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄàûÿÿÿÿHšù
+‹squid:S1151Ğ"jReduce this switch case number of lines from 13 to at most 5, for example by extracting code into methods.(İ–Ò˜ÿÿÿÿÿH˜ù
+tsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ÉyH€ù
+Fsquid:S00108Ã")Either remove or fill this block of code.(Äé†ˆH‰ù
+Fsquid:S1166Ï"%Either log or rethrow this exception.(òÉ†ÎúÿÿÿÿHúø
+nsquid:S1132l"NMove the "complete" string literal on the left side of this string comparison.(‘°ØşÿÿÿÿHıø
+‹squid:S1151ü"jReduce this switch case number of lines from 13 to at most 5, for example by extracting code into methods.(İ–Ò˜ÿÿÿÿÿH ù
+ksquid:S00116M"ORename this field "HTML" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ö¬H©ù
+tsquid:S00116T"SRename this field "m_config" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ş­’øÿÿÿÿH‚ù
+gsquid:S1192æ"KDefine a constant instead of duplicating this literal " NOT Found" 9 times.(¶ò¿¼HŠù
+Fsquid:S1166¨"%Either log or rethrow this exception.(Â²åıÿÿÿÿH„ù
+Fsquid:S1166Ò"%Either log or rethrow this exception.(‹óÁ‚şÿÿÿÿHÿø
+Fsquid:S1166à"%Either log or rethrow this exception.(‹óÁ‚şÿÿÿÿH…ù
+lsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(¬ÔÆØüÿÿÿÿH›ù
+zsquid:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿH‹ù
+gsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(Úİş˜Hœù
+lsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(–ğæ—ÿÿÿÿÿHù
+ssquid:S1192×"RDefine a constant instead of duplicating this literal " found. Element " 20 times.(–¹ô‹øÿÿÿÿHù
+usquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äµ„…Hù
+tsquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ÊºÿH†ù
+Fsquid:S1166‡"%Either log or rethrow this exception.(¼ÔîàùÿÿÿÿHƒù
+^squid:S1226˜"BIntroduce a new variable instead of reusing the parameter "retry".(Ä½ƒ†H•ù
+jsquid:S00116?"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï®§ÑHşø
+Fsquid:S1166è"%Either log or rethrow this exception.(Úğø¬ùÿÿÿÿH¨ù
+qsquid:S00104"]This file has 1,060 lines, which is greater than 750 authorized. Split it into smaller files.Hù
+gsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(Ú°à¬H”ù
+<squid:S1170M"!Make this final field static too.(÷Ö¬Hù
+osquid:S1192á"SDefine a constant instead of duplicating this literal " in WebController" 11 times.(óÅçH¦ù
+wsquid:S1192ƒ"VDefine a constant instead of duplicating this literal " found with message " 55 times.(®¢º™úÿÿÿÿH‘ù
+gsquid:S2142ù"FEither re-interrupt this method or rethrow the "InterruptedException".(ÇâŞáøÿÿÿÿH™ù
+tsquid:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ÉyH“ù
+esquid:S1871ö"IThis case's code block is the same as the block for the case on line 624.(ã×µ¬HŸù
+ksquid:S3008K"QRename this field "s_html" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú”­MHüø
+zsquid:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¢³ıÿÿÿÿHˆù
+esquid:S2583Ï	"DChange this condition so that it does not always evaluate to "false"(·”ù‡üÿÿÿÿH¡ù
+„squid:S1192Ò"cDefine a constant instead of duplicating this literal " found. Element NULL or not found" 10 times.(Ëí±çûÿÿÿÿHù
+@squid:S1166»"%Either log or rethrow this exception.(È›ßGH§ù
+Fsquid:S1166¨"%Either log or rethrow this exception.(òÉ†ÎúÿÿÿÿH£ù
+ysquid:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÄàûÿÿÿÿH—ù
+Fsquid:S1166Â"%Either log or rethrow this exception.(‹óÁ‚şÿÿÿÿH¤ù
+tsquid:S00116A"XRename this field "m_windowStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÊºÿH–ù
+Fsquid:S1166Š	"%Either log or rethrow this exception.(´­«ÎüÿÿÿÿHù
+osquid:S00116F"TRename this field "m_retries" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯àÒ$H«ù
+osquid:S1192ı"SDefine a constant instead of duplicating this literal " is not Selectable" 3 times.(´¼˜H‡ù
+esquid:S2583ß	"DChange this condition so that it does not always evaluate to "false"(·”ù‡üÿÿÿÿH¢ù
+6squid:S2326="T is not used in the class.(…œÈóHªù
+ksquid:S1192×"JDefine a constant instead of duplicating this literal " is stale" 3 times.(–¹ô‹øÿÿÿÿHŒù

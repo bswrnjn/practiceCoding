@@ -1,0 +1,12 @@
+
+isquid:S00116+"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëØ¸H¸ú
+]squid:S1244="=Equality tests should not be made with floating point values.(½“ÅÛùÿÿÿÿH±ú
+Xsquid:S1244d"=Equality tests should not be made with floating point values.(ÁØÓH¯ú
+Xsquid:S1244_"=Equality tests should not be made with floating point values.(œ¯Â«H¶ú
+Xsquid:S1244_"=Equality tests should not be made with floating point values.(œ¯Â«H²ú
+Xsquid:S1244_"=Equality tests should not be made with floating point values.(œ¯Â«H³ú
+Šsquid:S1151Y"jReduce this switch case number of lines from 15 to at most 5, for example by extracting code into methods.(áĞ³‘ÿÿÿÿÿH´ú
+…squid:S1151G"jReduce this switch case number of lines from 16 to at most 5, for example by extracting code into methods.(Áœä—H°ú
+msquid:S3776:"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®î˜øHµú
+Nsquid:UselessParenthesesCheck<"!Remove those useless parentheses.(³òŸ·H·ú
+„squid:S1151j"jReduce this switch case number of lines from 13 to at most 5, for example by extracting code into methods.(ŠÆÇlH¹ú

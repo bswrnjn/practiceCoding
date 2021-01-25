@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1-dev-20150306-5afe4d1" sequence="1" timestamp="1472307187564" analysisTimestamp="1472307178969" release="">
+  <Project projectName="cybageDemo">
+    <Jar>C:\Users\BISWA\workspace\cybageDemo\bin\cybageSingletonDemo\SingletonDemo.class</Jar>
+    <AuxClasspathEntry>C:\Users\BISWA\workspace\cybageDemo\bin</AuxClasspathEntry>
+    <AuxClasspathEntry>E:\Eclipse\eclipse-jee-kepler-SR2-win32\eclipse\plugins\org.testng.eclipse_6.9.11.201604020423\lib\testng.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>E:\Eclipse\eclipse-jee-kepler-SR2-win32\eclipse\plugins\org.testng.eclipse_6.9.11.201604020423\lib\jcommander.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>E:\Eclipse\eclipse-jee-kepler-SR2-win32\eclipse\plugins\org.testng.eclipse_6.9.11.201604020423\lib\bsh-2.0b4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>E:\Eclipse\eclipse-jee-kepler-SR2-win32\eclipse\plugins\org.testng.eclipse_6.9.11.201604020423\lib\snakeyaml.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Program Files\Java\jdk1.7.0_10\jre\lib\rt.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\BISWA\workspace\cybageDemo\src</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE" first="1">
+    <Class classname="cybageSingletonDemo.SingletonDemo">
+      <SourceLine classname="cybageSingletonDemo.SingletonDemo" sourcefile="SingletonDemo.java" sourcepath="cybageSingletonDemo/SingletonDemo.java"/>
+    </Class>
+    <Field classname="cybageSingletonDemo.SingletonDemo" name="x" signature="I" isStatic="false">
+      <SourceLine classname="cybageSingletonDemo.SingletonDemo" sourcefile="SingletonDemo.java" sourcepath="cybageSingletonDemo/SingletonDemo.java"/>
+    </Field>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 20 Jun 2016 23:16:21 +0530" total_classes="1" referenced_classes="9" total_bugs="1" total_size="12" num_packages="1" java_version="1.8.0_91" vm_version="25.91-b14" cpu_seconds="8.92" clock_seconds="8.66" peak_mbytes="247.91" alloc_mbytes="494.94" gc_seconds="0.90" priority_2="1">
+    <PackageStats package="cybageSingletonDemo" total_bugs="1" total_types="1" total_size="12" priority_2="1">
+      <ClassStats class="cybageSingletonDemo.SingletonDemo" sourceFile="SingletonDemo.java" interface="false" size="12" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="1684" invocations="2" avgMicrosecondsPerInvocation="842340" maxMicrosecondsPerInvocation="1345550" standardDeviationMircosecondsPerInvocation="503210"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="607" invocations="268" avgMicrosecondsPerInvocation="2268" maxMicrosecondsPerInvocation="18517" standardDeviationMircosecondsPerInvocation="3744"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="330" invocations="268" avgMicrosecondsPerInvocation="1233" maxMicrosecondsPerInvocation="37391" standardDeviationMircosecondsPerInvocation="2981"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="86" invocations="3" avgMicrosecondsPerInvocation="28841" maxMicrosecondsPerInvocation="82444" standardDeviationMircosecondsPerInvocation="37908"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1472307187549" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

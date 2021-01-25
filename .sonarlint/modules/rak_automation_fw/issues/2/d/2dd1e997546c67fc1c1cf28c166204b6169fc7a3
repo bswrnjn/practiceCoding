@@ -1,0 +1,7 @@
+
+Šsquid:S1151‘"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(®²ÂøÿÿÿÿH®ø
+zsquid:S00116"^Rename this field "m_driverBrowserType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èìËH­ø
+…squid:S1151‰"iReduce this switch case number of lines from 7 to at most 5, for example by extracting code into methods.(¶ –ĞH°ø
+zsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÌğæûÿÿÿÿH¯ø
+zsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉğßÿÿÿÿÿH¬ø
+Šsquid:S1151Z"jReduce this switch case number of lines from 14 to at most 5, for example by extracting code into methods.(®²ÂøÿÿÿÿH«ø

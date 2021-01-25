@@ -1,0 +1,26 @@
+
+Xsquid:S1213!"8Move this variable to comply with Java Code Conventions.(µÅ¶ûÿÿÿÿHòù
+Xsquid:S1213L"8Move this variable to comply with Java Code Conventions.(’«ž¹úÿÿÿÿHìù
+Xsquid:S1213G"8Move this variable to comply with Java Code Conventions.(ëì²£úÿÿÿÿHïù
+Xsquid:S12139"8Move this variable to comply with Java Code Conventions.(É¾³”þÿÿÿÿHëù
+~squid:S1845@"cRename field "random" to prevent any misunderstanding/clash with field "RANDOM" defined on line 62.(ÛÆ„¿Hüù
+Xsquid:S12137"8Move this variable to comply with Java Code Conventions.(”ÞëúÿÿÿÿHýù
+Xsquid:S1213("8Move this variable to comply with Java Code Conventions.(™‰²ýÿÿÿÿHæù
+Ssquid:S1213@"8Move this variable to comply with Java Code Conventions.(ÛÆ„¿Hîù
+Ssquid:S1213&"8Move this variable to comply with Java Code Conventions.(À‘ÜËHíù
+Xsquid:S1213."8Move this variable to comply with Java Code Conventions.(®ˆŸùÿÿÿÿHêù
+Xsquid:S1213E"8Move this variable to comply with Java Code Conventions.(¶‘ˆ¯ûÿÿÿÿHöù
+‚squid:S1845N"gRename field "username" to prevent any misunderstanding/clash with field "USERNAME" defined on line 76.(ýá³ÊHõù
+Xsquid:S1213"8Move this variable to comply with Java Code Conventions.(Ž¹€¶úÿÿÿÿHøù
+Ssquid:S1213N"8Move this variable to comply with Java Code Conventions.(ýá³ÊHôù
+usquid:S3008	"URename this field "s_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾œÇÆÿÿÿÿÿHéù
+Ssquid:S12130"8Move this variable to comply with Java Code Conventions.(ÖŒ¨ðHùù
+Xsquid:S1213U"8Move this variable to comply with Java Code Conventions.(¨ŒåÌùÿÿÿÿHðù
+‹"squid:ClassVariableVisibilityCheck"TMake isNative a static final constant or non-public and provide accessors if needed.(ðæ¼‰úÿÿÿÿHóù
+‰squid:S1845!"iRename field "selective" to prevent any misunderstanding/clash with field "SELECTIVE" defined on line 31.(µÅ¶ûÿÿÿÿHèù
+Ssquid:S1213>"8Move this variable to comply with Java Code Conventions.(õ¸¶ÎHûù
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î»€ºHçù
+Ssquid:S1213Z"8Move this variable to comply with Java Code Conventions.(ˆðûøHåù
+Xsquid:S1213\"8Move this variable to comply with Java Code Conventions.(ÒÐ©¶ùÿÿÿÿHúù
+Ssquid:S1213S"8Move this variable to comply with Java Code Conventions.(ððÐÝH÷ù
+Xsquid:S1213"8Move this variable to comply with Java Code Conventions.(ðæ¼‰úÿÿÿÿHñù

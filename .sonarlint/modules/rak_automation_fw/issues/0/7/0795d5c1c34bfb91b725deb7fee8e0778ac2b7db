@@ -1,0 +1,4 @@
+
+¦squid:S1160"ŠRefactor this method to throw at most one checked exception instead of: java.lang.InstantiationException, java.lang.IllegalAccessException(üÄ™HÄø
+Zsquid:S1118":Add a private constructor to hide the implicit public one.(¯ÀçÊıÿÿÿÿHÆø
+wsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "stub".(½ëŞİHÅø

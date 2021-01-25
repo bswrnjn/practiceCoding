@@ -1,0 +1,12 @@
+
+asquid:S1192:"GDefine a constant instead of duplicating this literal "\" on " 9 times.(œ‘šØH¿H
+Dsquid:S1166f"%Either log or rethrow this exception.(¤—î¿ùÿÿÿÿHµH
+hsquid:S1132³"HMove the "ul" string literal on the left side of this string comparison.(‡–Ò·ùÿÿÿÿH¾H
+Usquid:S1161­":Add the "@Override" annotation above this method signature( ÜóH¸H
+`squid:S1192U"FDefine a constant instead of duplicating this literal "value" 5 times.(¿•H·H
+Esquid:S2116É"%Use "Arrays.toString(array)" instead.(˜±ŞûÿÿÿÿHºH
+Tsquid:S1161`":Add the "@Override" annotation above this method signature(ÖÛáH¼H
+gsquid:S1132g"HMove the "ul" string literal on the left side of this string comparison.(‡–Ò·ùÿÿÿÿH»H
+csquid:S1132à"HMove the "li" string literal on the left side of this string comparison.(üôĞüH½H
+Esquid:S1166²"%Either log or rethrow this exception.(¤—î¿ùÿÿÿÿH¹H
+`squid:S1854ß"@Remove this useless assignment to local variable "selectedText".(òÎûÃÿÿÿÿÿH¶H

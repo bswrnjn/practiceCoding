@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.apache.axis2.tool.service.eclipse.ui.WSDLFileSelectionPage">
+		<item value="true" key="SKIP_WSDL"/>
+		<item value="false" key="SELECT_WSDL"/>
+		<item value="" key="WSDL_FILE_NAME"/>
+		<item value="true" key="WSDL_GEN"/>
+	</section>
+	<section name="org.apache.axis2.tool.service.eclipse.ui.ServiceArchiveOutputLocationPage">
+		<item value="" key="OUT_LOCATION"/>
+		<item value="my_service" key="OUT_NAME"/>
+	</section>
+	<section name="org.apache.axis2.tool.service.eclipse.ui.ServiceXMLGenerationPage">
+		<item value="false" key="LOAD_ALL"/>
+		<item value="SecComp" key="SERVICE_NAME"/>
+		<item value="p1.Calcy2" key="CLASSNAME"/>
+	</section>
+	<section name="org.apache.axis2.tool.service.eclipse.ui.ClassFileLocationPage">
+		<item value="E:\Eclipse\eclipse-jee-kepler-SR2-win32\eclipse" key="CLASS_FILE_LOCATION"/>
+		<item value="true" key="FILTER_BY_CLASSES"/>
+	</section>
+	<section name="org.apache.axis2.tool.service.eclipse.ui.LibraryAddingPage">
+		<list key="LIB_NAMES">
+		</list>
+	</section>
+	<section name="org.apache.axis2.tool.service.eclipse.ui.ServiceXMLFileSelectionPage">
+		<item value="" key="SERVICE_XML"/>
+		<item value="true" key="AUTO_GEN"/>
+	</section>
+</section>

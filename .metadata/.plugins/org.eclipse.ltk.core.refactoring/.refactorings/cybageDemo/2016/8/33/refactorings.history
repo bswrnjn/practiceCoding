@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;cybageDemo/src/cybageHotelVerify/hotelVerify.yaml&apos; to &apos;demo.yaml&apos;" description="Rename resource &apos;hotelVerify.yaml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/cybageHotelVerify/hotelVerify.yaml" name="demo.yaml" stamp="1470848696114" updateReferences="true"/>
+</session>

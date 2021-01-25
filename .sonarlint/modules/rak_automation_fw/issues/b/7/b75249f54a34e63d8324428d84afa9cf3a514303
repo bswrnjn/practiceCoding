@@ -1,0 +1,11 @@
+
+squid:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç—¼HÉú
+osquid:S00116 "NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¤€‘şÿÿÿÿHÊú
+œsquid:S1186_"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©üÄ¹HÌú
+¡squid:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úŒÌıüÿÿÿÿHÄú
+tsquid:S00116""SRename this field "m_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¼˜½şÿÿÿÿHÃú
+tsquid:S00116$"SRename this field "m_scheme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©™Î·ıÿÿÿÿHÈú
+usquid:S00116&"TRename this field "m_headers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ…øÿÿÿÿHÆú
+Asquid:S1168i"&Return an empty array instead of null.(¥¹ïHÇú
+Fsquid:S1166†"%Either log or rethrow this exception.(É˜ÙúÿÿÿÿHËú
+squid:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó´ÖîHÅú

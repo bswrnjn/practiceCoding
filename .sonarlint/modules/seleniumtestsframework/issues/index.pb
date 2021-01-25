@@ -1,0 +1,23 @@
+
+m
+=src/main/java/com/seleniumtests/core/CustomEventListener.java,c\3\c3b4fc5d8302ad8651812f7f94e372de4f091210
+i
+9src/test/java/com/seleniumtests/tests/AndroidAppTest.java,d\5\d5b4ee299696f9be175c4ba35f0107f01703acad
+k
+;src/test/java/com/seleniumtests/tests/RegistrationTest.java,b\b\bb99bd9520837f85ba906a84f837388c6331c6a2
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+i
+9src/main/java/com/seleniumtests/webelements/BasePage.java,8\1\813df2de504eeea4d073a655865ad37d2de57d91
+f
+6src/main/java/com/seleniumtests/helper/WaitHelper.java,5\1\5161684b319710f66d1e9ecaedd37ec3d03a78fb
+g
+7src/main/java/com/seleniumtests/driver/WebUIDriver.java,5\d\5de627e484daf1c4240ec52fcd2b16e2589086c0
+h
+8src/main/java/com/seleniumtests/driver/DriverConfig.java,c\b\cba628e6b0879f83104967a51bb123a43c91708f
+f
+6src/main/java/com/seleniumtests/driver/ScreenShot.java,2\b\2bb1e4f636a594a200b7a65eb80dd29a0c9d7873
+k
+;src/main/java/com/seleniumtests/webelements/SelectList.java,e\f\ef921b2721d578ec62e5a296158d66e72ec3df18
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

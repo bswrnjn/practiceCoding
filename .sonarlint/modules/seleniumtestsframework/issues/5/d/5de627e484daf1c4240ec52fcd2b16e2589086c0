@@ -1,0 +1,27 @@
+
+Vsquid:S1213‘";Move this constructor to comply with Java Code Conventions.(×ò¶HH
+Zsquid:S1854™":Remove this useless assignment to local variable "driver".(°ü»›ıÿÿÿÿH¡H
+gsquid:S00112³"FDefine and throw a dedicated exception instead of using a generic one.(×£íûÿÿÿÿHšH
+csquid:S1226Ï"CIntroduce a new variable instead of reusing the parameter "driver".(ŞÉ¡½ÿÿÿÿÿH¢H
+tsquid:S1450*"URemove the "driver" field and declare it as a local variable in the relevant methods.(š…ŒÅøÿÿÿÿHH
+Vsquid:S1854›"6Remove this useless assignment to local variable "ua".(ÂŸˆúÿÿÿÿH’H
+Z
+squid:S106ê";Replace this usage of System.out or System.err by a logger.(¾ƒò„ıÿÿÿÿH”H
+rsquid:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(şñÊëÿÿÿÿÿH¤H
+Z
+squid:S106×";Replace this usage of System.out or System.err by a logger.(ÅÁ„úÿÿÿÿH–H
+Tsquid:S1854B":Remove this useless assignment to local variable "driver".(Ò±ö›H£H
+?squid:S1166f"%Either log or rethrow this exception.(”ı¾H“H
+Esquid:S1166¾"%Either log or rethrow this exception.(±Ÿ—±ÿÿÿÿÿH¦H
+asquid:S1132¯"FMove the "" string literal on the left side of this string comparison.(ÁÁÎ¨H‘H
+=squid:S1148?"#Use a logger to log this exception.(Ç’ÇêHœH
+U
+squid:S106İ";Replace this usage of System.out or System.err by a logger.(Õ†ÌH˜H
+Jsquid:S00108¾")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿH™H
+?squid:S1166>"%Either log or rethrow this exception.( €â¦H H
+Ysquid:S1155Í">Use isEmpty() to check whether the collection is empty or not.(Ñ¢ÊƒH—H
+asquid:S1192"FDefine a constant instead of duplicating this literal "false" 3 times.(Ñ ÏÏH¥H
+[squid:S1213Œ";Move this constructor to comply with Java Code Conventions.(¾Ç£úÿÿÿÿH›H
+Hsquid:S3067·"-Synchronize on the static class name instead.(üõù°H•H
+esquid:HiddenFieldCheck™":Rename "driver" which hides the field declared at line 42.(°ü»›ıÿÿÿÿHŸH
+Bsquid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHH

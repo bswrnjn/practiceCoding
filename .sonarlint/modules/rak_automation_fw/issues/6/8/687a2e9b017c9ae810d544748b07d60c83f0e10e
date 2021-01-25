@@ -1,0 +1,22 @@
+
+[squid:UnusedPrivateMethodP"-Remove this unused private "validate" method.(İ˜×øÿÿÿÿHèú
+h
+squid:S134-"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Çâ°óHéú
+esquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ø²„nHêú
+ksquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(º€â»ùÿÿÿÿHáú
+ksquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(«ú¾ŞúÿÿÿÿHàú
+rsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ë§øşÿÿÿÿHŞú
+xsquid:S00116"\Rename this field "m_parameterLength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‡ÿëHÚú
+fsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¬âÂ·HÛú
+gsquid:S1132#"LMove the "--help" string literal on the left side of this string comparison.(ˆ¯™óHçú
+squid:S1149^"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿHİú
+<squid:S1170"!Make this final field static too.(£‡ÿëHØú
+Psquid:S1068"5Remove this unused "m_parameterLength" private field.(£‡ÿëHâú
+bsquid:S18717"HThis case's code block is the same as the block for the case on line 49.(•‘—Hæú
+hsquid:S1871="HThis case's code block is the same as the block for the case on line 49.(İ–Ò˜ÿÿÿÿÿHãú
+ksquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(‰ûÊ×úÿÿÿÿHäú
+ˆ squid:ForLoopCounterChangedCheck)"XRefactor the code in order to not assign to this loop counter from within the loop body.(Í¶ªìHåú
+ysquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª†©ûÿÿÿÿHÜú
+_squid:S1134"DTake the required action to fix the issue indicated by this comment.(“¢À¢Hëú
+hsquid:S18714"HThis case's code block is the same as the block for the case on line 49.(Èıò˜üÿÿÿÿHßú
+hsquid:S1871:"HThis case's code block is the same as the block for the case on line 49.(‚ŸøûÿÿÿÿHÙú

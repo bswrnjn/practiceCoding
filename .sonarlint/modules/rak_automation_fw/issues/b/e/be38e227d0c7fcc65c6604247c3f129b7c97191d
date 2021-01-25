@@ -1,0 +1,19 @@
+
+csquid:S2259Ñ"BNullPointerException might be thrown as 'maxTest' is nullable here(åìÆ¶øÿÿÿÿHŞù
+rsquid:S00116/"QRename this field "m_args" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı®üùÿÿÿÿHÚù
+`squid:UnusedPrivateMethodÂ"6Remove this unused private "sequentialExecute" method.(“áĞHßù
+msquid:S1192·"LDefine a constant instead of duplicating this literal " test cases" 3 times.(øîÓîüÿÿÿÿHÛù
+y
+squid:S135½"YReduce the total number of break and continue statements in this loop to use at most one.( ôè´ÿÿÿÿÿHÓù
+Lsquid:S1172à"0Remove this unused method parameter "suiteName".(õ“®ÖHÙù
+isquid:S1192Ä"HDefine a constant instead of duplicating this literal " suites" 3 times.(½•ğ™ùÿÿÿÿHáù
+@squid:S1166I"%Either log or rethrow this exception.(ø—ÎŠHØù
+Lsquid:S1172Â"0Remove this unused method parameter "suiteName".(“áĞHİù
+msquid:S3776;"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ÛÛ¯øH×ù
+^squid:S2583Ú"CChange this condition so that it does not always evaluate to "true"(Â¸¢Hâù
+^squid:UnusedPrivateMethodà"4Remove this unused private "parallelExecute" method.(õ“®ÖHÜù
+n
+squid:S134 "NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‹ÀÇ…ÿÿÿÿÿHÔù
+lsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Ëô©‹şÿÿÿÿHÖù
+nsquid:S3008-"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è›ÎûÿÿÿÿHÕù
+Fsquid:S1166†"%Either log or rethrow this exception.(ã¤ŸÿùÿÿÿÿHàù

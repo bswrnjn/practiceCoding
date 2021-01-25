@@ -1,0 +1,9 @@
+
+lsquid:S1192d"LDefine a constant instead of duplicating this literal "Overriding " 4 times.(ş‘â…ıÿÿÿÿHçø
+gsquid:S1192d"GDefine a constant instead of duplicating this literal " with " 5 times.(ş‘â…ıÿÿÿÿHæø
+osquid:S00116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¤€‘şÿÿÿÿHãø
+psquid:S00116 "TRename this field "m_logpath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş½ÉHéø
+`squid:S1134"DTake the required action to fix the issue indicated by this comment.(‡´®èHäø
+ssquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ûïú¬ıÿÿÿÿHèø
+rsquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(²ô‘µûÿÿÿÿHåø
+lsquid:S1301Ô"KReplace this "switch" statement by "if" statements to increase readability.(º‡ëøúÿÿÿÿHêø

@@ -1,0 +1,4 @@
+
+Usquid:S1118":Add a private constructor to hide the implicit public one.(³ù¾ÈHµø
+nsquid:S3008"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Š§ þÿÿÿÿH¶ø
+vsquid:S3008"VRename this field "m_ftpClient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æã³úÿÿÿÿH´ø

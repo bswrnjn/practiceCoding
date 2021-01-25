@@ -1,0 +1,34 @@
+
+Nsquid:S1135Ã"2Complete the task associated to this TODO comment.(²µÉ H¢ú
+ssquid:S00117ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÈü´H“ú
+@squid:S1166½"%Either log or rethrow this exception.(È›ßGH˜ú
+Nsquid:S1135œ"2Complete the task associated to this TODO comment.(Ë©Î”Hú
+csquid:S1871g"HThis case's code block is the same as the block for the case on line 97.(ã×µ¬H•ú
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH™ú
+Ssquid:S1135‡"2Complete the task associated to this TODO comment.(½ÿÓÀşÿÿÿÿHú
+Ssquid:S1135£"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH£ú
+Ssquid:S1135‚"2Complete the task associated to this TODO comment.(öé³‰şÿÿÿÿHŠú
+Psquid:EmptyStatementUsageCheck¸"Remove this empty statement.(ÅåÃØûÿÿÿÿHú
+k
+squid:S128p"LEnd this switch case with an unconditional break, return or throw statement.(èùÀñıÿÿÿÿH¨ú
+Ssquid:S1135ü"2Complete the task associated to this TODO comment.(Úî÷°şÿÿÿÿHú
+csquid:S1226„"BIntroduce a new variable instead of reusing the parameter "retry".(ïÂÍúûÿÿÿÿH‹ú
+T"squid:SwitchLastCaseIsDefaultCheckS""Add a default case to this switch.(ªòá¿H›ú
+msquid:S1192C"RDefine a constant instead of duplicating this literal " in WebController" 4 times.(óÅçH—ú
+Ssquid:S1135•"2Complete the task associated to this TODO comment.(½¥î•øÿÿÿÿH¡ú
+lsquid:S1192="QDefine a constant instead of duplicating this literal " found. Element " 4 times.(„¹Ê˜Hú
+Psquid:EmptyStatementUsageCheckè"Remove this empty statement.(Œ²ò¬şÿÿÿÿH§ú
+Ksquid:EmptyStatementUsageCheckØ"Remove this empty statement.(‚ä°¬H¥ú
+@squid:S1166Ğ"%Either log or rethrow this exception.(È›ßGHŸú
+Nsquid:S1135"2Complete the task associated to this TODO comment.(³Û—ÓH’ú
+Vsquid:S1854q";Remove this useless assignment to local variable "element".(˜÷ÊH¦ú
+Nsquid:S1135é"2Complete the task associated to this TODO comment.(ï‰¥H–ú
+Nsquid:S1135©"2Complete the task associated to this TODO comment.(ÿ¾â¾HŒú
+Nsquid:S1135¯"2Complete the task associated to this TODO comment.(÷çÛıH‘ú
+Nsquid:S1135ˆ"2Complete the task associated to this TODO comment.(ÂìéöHšú
+Nsquid:S1135Ö"2Complete the task associated to this TODO comment.(Ş‡´¶H”ú
+ƒsquid:S11927"cDefine a constant instead of duplicating this literal " found. Element NULL or not found" 18 times.(Ëí±çûÿÿÿÿH¤ú
+ssquid:S00116#"RRename this field "m_files" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄàûÿÿÿÿH ú
+ssquid:S00117ú"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÈü´Hú
+ysquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÄàûÿÿÿÿH‰ú
+vsquid:S11926"VDefine a constant instead of duplicating this literal " found with message " 30 times.(®¢º™úÿÿÿÿHœú

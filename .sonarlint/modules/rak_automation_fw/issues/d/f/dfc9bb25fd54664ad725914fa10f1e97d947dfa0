@@ -1,0 +1,8 @@
+
+osquid:S00116"SRename this field "m_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í½ïØH÷ø
+Esquid:S1166L"%Either log or rethrow this exception.(¼ÔîàùÿÿÿÿHùø
+œsquid:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç—¼Höø
+œsquid:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó´ÖîHõø
+osquid:S00116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ï‘ëøÿÿÿÿHóø
+Esquid:S1166="%Either log or rethrow this exception.(¼ÔîàùÿÿÿÿHôø
+qsquid:S00116"URename this field "m_database" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•­ÄĞHøø

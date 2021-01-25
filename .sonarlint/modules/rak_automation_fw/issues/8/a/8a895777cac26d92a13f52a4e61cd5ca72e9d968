@@ -1,0 +1,24 @@
+
+msquid:S1192²"QDefine a constant instead of duplicating this literal " found. Element " 3 times.(ùê²øH¾ù
+ssquid:S00116@"RRename this field "m_files" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÄàûÿÿÿÿH»ù
+csquid:S1226’"BIntroduce a new variable instead of reusing the parameter "retry".(ïÂÍúûÿÿÿÿH´ù
+zsquid:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¢³ıÿÿÿÿH¯ù
+Asquid:S1166¼"%Either log or rethrow this exception.(ÊÈ±ïH¬ù
+esquid:S1871ó"IThis case's code block is the same as the block for the case on line 237.(ã×µ¬HÁù
+psquid:S00116;"TRename this field "m_retries" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‰™H±ù
+vsquid:S001164"URename this field "m_homepage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œæ¨øÿÿÿÿH¹ù
+esquid:S2583¼"DChange this condition so that it does not always evaluate to "false"(·”ù‡üÿÿÿÿH¸ù
+‹squid:S1151å"jReduce this switch case number of lines from 13 to at most 5, for example by extracting code into methods.(İ–Ò˜ÿÿÿÿÿHÀù
+tsquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ÊºÿHÂù
+vsquid:S1192a"VDefine a constant instead of duplicating this literal " found with message " 10 times.(¶¬«ËûÿÿÿÿH·ù
+ysquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÄàûÿÿÿÿHµù
+_squid:S1134{"DTake the required action to fix the issue indicated by this comment.(’çàÿH³ù
+jsquid:S001162"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï®§ÑH¿ù
+‹squid:S1151…"jReduce this switch case number of lines from 13 to at most 5, for example by extracting code into methods.(İ–Ò˜ÿÿÿÿÿH¶ù
+^squid:S1226Ò"BIntroduce a new variable instead of reusing the parameter "retry".(Ä½ƒ†H½ù
+tsquid:S001166"XRename this field "m_windowStack" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÊºÿH­ù
+Fsquid:S1166š"%Either log or rethrow this exception.(ØšïôúÿÿÿÿH²ù
+tsquid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ÉyH¼ù
+esquid:S1871°"IThis case's code block is the same as the block for the case on line 298.(ã×µ¬H®ù
+osquid:S1132‡"NMove the "complete" string literal on the left side of this string comparison.(‘°ØşÿÿÿÿHºù
+Fsquid:S1166è"%Either log or rethrow this exception.(Úğø¬ùÿÿÿÿH°ù

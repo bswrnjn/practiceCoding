@@ -1,0 +1,8 @@
+
+Fsquid:S1452g"&Remove usage of generic wildcard type.(þ˜»ßýÿÿÿÿHÁø
+?squid:S1166["%Either log or rethrow this exception.(È›ßGHÂø
+osquid:S00116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŽ­ÑûÿÿÿÿH¾ø
+psquid:S3008 "URename this field "s_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ¨Ô©H½ø
+@squid:S1166u"%Either log or rethrow this exception.(©þÀÅHÀø
+ksquid:S00116""PRename this field "m_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÅŠLH¼ø
+Asquid:S1166¢"%Either log or rethrow this exception.(ó—ŠƒH¿ø

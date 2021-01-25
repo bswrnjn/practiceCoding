@@ -1,0 +1,15 @@
+
+zsquid:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¸ÅÚûÿÿÿÿHÌù
+Àsquid:S11604"ŸRefactor this method to throw at most one checked exception instead of: javax.naming.NoPermissionException, java.lang.NoSuchFieldException, java.io.IOException(«¬§äúÿÿÿÿHÊù
+nsquid:S3008("NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£»İÿÿÿÿÿHËù
+xsquid:S1488Ë"\Immediately return this expression instead of assigning it to the temporary variable "menu".(¡¿¸ŠHÅù
+€squid:S1149Å"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿHÏù
+usquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï©òHÈù
+zsquid:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€«ıÿÿÿÿHÆù
+Zsquid:S1118&":Add a private constructor to hide the implicit public one.(Ñªí£ùÿÿÿÿHÍù
+fsquid:S1132y"FMove the "" string literal on the left side of this string comparison.(††é¿ıÿÿÿÿHÉù
+a
+squid:S899:"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿHÃù
+zsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ß±‰úÿÿÿÿHÇù
+usquid:S2293—"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œæ¦àHÎù
+zsquid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¸ÅÚûÿÿÿÿHÄù

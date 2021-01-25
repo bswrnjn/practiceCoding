@@ -1,0 +1,6 @@
+
+fsquid:S2142!"FEither re-interrupt this method or rethrow the "InterruptedException".(×Ù÷ÿÿÿÿÿH‰ø
+@squid:S1166'"%Either log or rethrow this exception.(ÔŠÂ–HŒø
+osquid:S00116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ï‘ëøÿÿÿÿHŠø
+qsquid:S00116["PRename this field "m_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“úïøÿÿÿÿH‹ø
+Usquid:S1141"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿHˆø
